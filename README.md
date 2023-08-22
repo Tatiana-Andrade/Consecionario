@@ -1,3 +1,1 @@
-# Consecionario creado por:
-Viviana Escobar
-Tatiana Zamora 
+# Consecionario creado por: Viviana Escobar y Tatiana Zamora 
